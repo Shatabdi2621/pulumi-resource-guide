@@ -1,4 +1,4 @@
-# AzureResource---Pulumi Infrastructure Deployment 
+# Azure Cloud Resource Infrastructure Deployment with Pulumi
 Example to create Azure Resource using Pulumi (Infrastructure as Code), in order to create basic yet complex azure infrastructure. Followimng are the list of resources getting created using this method 
 
 1. azure resource group 
@@ -11,7 +11,7 @@ Example to create Azure Resource using Pulumi (Infrastructure as Code), in order
 1. Clone rep and move inside that directory 
 
     ``` bash 
-    https://github.com/Shatabdi2621/AzureResource---Pulumi.git
+    https://github.com/Shatabdi2621/pulumi-resource-guide.git
     ```
 2. Compile the project and install all the dependenies 
 3. Check az log-in the command prompt, & then check integration of Pulumi with your local machine 
