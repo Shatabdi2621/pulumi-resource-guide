@@ -1,0 +1,3 @@
+name: azureresource
+runtime: dotnet
+description: azure resource creation using pulumi
